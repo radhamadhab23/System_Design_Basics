@@ -44,8 +44,8 @@ Clone the repo:
 
 ```bash
 git clone https://github.radhamadhab23/system_design_basics.git
-cd system_design_basics```
-
+cd system_design_basics
+```
 Explore the folders. Each subfolder will have its own README.md with:
 Setup steps
 Run instructions
