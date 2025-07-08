@@ -44,14 +44,13 @@ Clone the repo:
 
 ```bash
 git clone https://github.radhamadhab23/system_design_basics.git
-cd system_design_basics
-```Explore the folders. Each subfolder will have its own README.md with:
+cd system_design_basics```
 
+Explore the folders. Each subfolder will have its own README.md with:
 Setup steps
-
 Run instructions
-
 Sample output
+
 ✍️ Contributing
 Want to add new modules? Fork the repo and submit a pull request!
 We welcome community contributions — whether it's fixing typos, optimizing code, or adding full new design modules.
